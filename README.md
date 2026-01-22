@@ -1,9 +1,15 @@
-#Calculator
+# Calculator
 
-##Intro
---This project demonstrates a simple calculator clone.
---It can perform addition, subtraction, multiplication, division and exponentiation.
---It uses html, css and js.
+## Introduction
+This project is a simple calculator built using HTML, CSS, and JavaScript.  
+It supports basic arithmetic operations such as addition, subtraction, multiplication, division, and exponentiation.
 
-##What I learned
---In this project, I learnt how to apply css grid on an html structure.  
+## Features
+- Performs basic arithmetic calculations
+- Clean button-based user interface
+- Responsive layout using CSS Grid
+
+## What I Learned
+- How to structure a calculator layout using CSS Grid
+- Handling user input and button click events in JavaScript
+- Managing calculation logic and updating the UI dynamically
